@@ -1,0 +1,1 @@
+The project consists of two distinct codebases. The first is an Arduino IDE codebase, which serves to facilitate the acquisition of data from a sensor through an ESP8266. The second codebase is dedicated to Google Sheets integration, and is responsible for the receipt of data from the aforementioned sensor and its subsequent storage in Google Sheets.
